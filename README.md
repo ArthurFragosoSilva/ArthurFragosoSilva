@@ -38,7 +38,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurFragosoSilva&theme=codeSTACKr&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurFragosoSilva&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=ArthurFragosoSilva&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
